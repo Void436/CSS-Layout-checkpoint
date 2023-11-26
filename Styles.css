@@ -1,0 +1,21 @@
+.cop{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    align-items: center;
+    align-content: center;
+}
+
+
+.col{
+    padding: 0px;
+    height: 370px;
+    width: 350px;
+}
+
+
+.form{
+    padding-bottom: 25px;
+    text-decoration: none;
+    background-color: transparent;
+}
